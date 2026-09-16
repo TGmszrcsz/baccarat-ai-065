@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录阅读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 064 篇 - 百家乐Ai预测分析工具：撤销与作废记录应该怎样进入报表](https://github.com/TGmszrcsz/baccarat-ai-064) ｜ [下一篇：第 066 篇 - 百家乐Ai预测分析工具：金额单位与小数精度需要统一说明](https://github.com/TGmszrcsz/baccarat-ai-066)
+
+<!-- article-chain:end -->
+
 账务条目和分析输出只相差几秒，就被直接配对。本篇围绕“时间排序相邻的两条记录未必属于同一局”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
